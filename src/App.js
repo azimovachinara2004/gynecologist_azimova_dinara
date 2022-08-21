@@ -1,23 +1,13 @@
-import logo from './logo.svg';
+import pic1 from './images/pic1.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img src={pic1} alt='my picture' className='pic1'/>
+     <h1>Dinara Azimova</h1>
+     <h3>Gynecologist</h3>
+     <p>Compassionate Gynecologist with 10 years of hospital and private practice experience. Adept at closely monitoring patient vitals and comfort levels throughout various procedures. Committed to thorough patient education and creating innovative and effective treatment plans.</p>
     </div>
   );
 }
