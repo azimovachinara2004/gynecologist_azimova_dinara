@@ -1,0 +1,6 @@
+.header_container{
+    display: flex;
+    justify-content: end;
+    flex-direction: flex-end;
+    gap: 5px;
+}
