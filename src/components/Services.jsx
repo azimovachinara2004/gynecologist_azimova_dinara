@@ -33,10 +33,24 @@ Toward the end of pregnancy, ultrasounds can be useful for checking the length o
         </div>
 
         <div className='services_card1'>
-            <img src={pic4} alt='gynacology picture 3'width='450px'/>
+            <img src={pic4} alt='gynacology picture 3'width='400px'/>
             <div className='description1'>
-            <h3>Services and During pregnancy support</h3>
-           <p></p>
+            <h3>During pregnancy support</h3>
+          <p>While you’re pregnant, an OB/GYN can benefit you in the following ways:</p> 
+           <ul>
+<li>Prenatal testing (including blood, urine, pap, etc.)</li>
+<li>Fetal monitoring (ultrasounds, kick counts, electronic fetal monitoring)</li>
+<li>Test for birth defects and/or genetic disorders</li>
+<li>Pinpoint problems early</li>
+<li>Advise you on diet and health</li>
+<li>Advise you on pains, complications, or other concerns you may have</li>
+<li>Prescribe medications</li>
+<li>Have equipment and technology to treat any problems that may arise</li>
+<li>Advise you on physical, emotional, and mental changes that may occur</li>
+<li>Answer questions after delivery</li>
+<li>Monitor you and baby after delivery</li>
+<li>Help you understand postpartum physical changes</li>
+           </ul>
            
         </div>
         </div>    
